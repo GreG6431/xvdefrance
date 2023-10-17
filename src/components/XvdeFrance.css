@@ -1,0 +1,21 @@
+button {
+    background-color: #e21f20;
+}
+
+
+.large-text {
+    font-size: 2, 5rem;
+}
+
+
+.button-text-color {
+    color: white
+}
+
+p {
+    font-family: Inter, system-ui, Avenir, Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffffde;
+    font-size: 3em;
+    font-weight: bold;
+}
+
